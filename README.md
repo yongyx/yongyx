@@ -46,7 +46,7 @@ I am currently majoring in Machine Learning and Data Science. I have a particula
   </details>
 
 <details>
-  <summary> 📊 GitHub Most Used Languages</summary>
+  <summary> 📊 Most Used Languages on Github </summary>
 
   <img align="left" alt="yongyx's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongyx" />
 
