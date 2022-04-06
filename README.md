@@ -25,6 +25,9 @@
 <img align="left" alt="Matlab" width="26px" src="./img/matlab.png">
 <img align="left" alt="Scikit-learn" width="26px" src="./img/scikit-learn.svg">
 
+  <br/>
+  <br/>
+  
 </details>
 
 <details>
