@@ -1,4 +1,4 @@
-### Hi there, I'm Yong! Checkout my website here: 
+### Hi there, I'm Yong!
 
 ## Currently a Master's student at UCSD, and aspiring to work in Computer Vision!
 - :people_holding_hands: I am always looking for a collaboration with avid machine learning enthusiasts! Feel free to drop me an <a href="mailto:yyx.yongyuxuanB01@gmail.com">email<a> to work together!
