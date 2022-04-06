@@ -7,10 +7,10 @@
 
 ### :calling: Connect with Me!
 [![website](./img/facebook.svg)](https://facebook.com/yong.yuxuan.9/)
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/yongyx#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/yongyx#gh-dark-mode-only)
-[![website](./img/instagram-light.svg)](https://instagram.com/yong.yx/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/yong.yx/#gh-dark-mode-only)
+[![website](./img/linkedin.svg)](https://linkedin.com/in/yongyx#gh-light-mode-only)
+[![website](./img/linkedin.svg)](https://linkedin.com/in/yongyx#gh-dark-mode-only)
+[![website](./img/instagram.svg)](https://instagram.com/yong.yx/#gh-light-mode-only)
+[![website](./img/instagram.svg)](https://instagram.com/yong.yx/#gh-dark-mode-only)
 
 ### :toolbox: Languages & Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
