@@ -1,6 +1,7 @@
-### Hi there, I'm Yong!
+### Hi there, I'm Yong! Welcome to my Github page!
 
-## Currently a Master's student at UCSD, and aspiring to work in Computer Vision!
+## 📚 Currently a Master's student at UCSD!
+I am currently majoring in Machine Learning and Data Science. I have a particular interest in the field of Computer Vision, and am currently doing research at UCSD under the VVIP lab.
 - :people_holding_hands: I am always looking for a collaboration with avid machine learning enthusiasts! Feel free to drop me an <a href="mailto:yyx.yongyuxuanB01@gmail.com">email<a> to work together!
 - :pushpin: 2022 goals: Complete more pet projects, as well as master and get better at SQL!
 - :mag: Check out my portfolio [here](https://yongyx.github.io)!
