@@ -6,7 +6,7 @@
 - :mag" Check out my portfolio [here](yongyx.github.io)!
 
 ### :calling: Connect with Me!
-[![website](./img/facebooks.svg)](https://facebook.com/yong.yuxuan.9/)
+[![website](./img/facebook.svg)](https://facebook.com/yong.yuxuan.9/)
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/yongyx#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/yongyx#gh-dark-mode-only)
 [![website](./img/instagram-light.svg)](https://instagram.com/yong.yx/#gh-light-mode-only)
