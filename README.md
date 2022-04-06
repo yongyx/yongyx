@@ -27,7 +27,6 @@
 [<img align="left" alt="Java" width="26px" src="./img/java.svg">](https://docs.oracle.com/en/java/)
 [<img align="left" alt="Numpy" width="26px" src="./img/numpy.svg">](https://numpy.org)
 
-
   <br/>
   <br/>
   
