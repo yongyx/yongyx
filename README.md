@@ -45,6 +45,8 @@ I am currently majoring in Machine Learning and Data Science. I have a particula
   
   </details>
 
+<br/>
+
 <details>
   <summary> 📊 Most Used Languages on Github </summary>
 
