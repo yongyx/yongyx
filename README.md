@@ -33,8 +33,6 @@ I am currently majoring in Machine Learning and Data Science. I have a particula
   <br/>
   <br/>
   <br/>
-  
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -42,10 +40,6 @@ I am currently majoring in Machine Learning and Data Science. I have a particula
   <img align="left" alt="yongyx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yongyx&show_icons=true&hide_border=false&theme=merko" />
 
 </details>
-  
-  </details>
-
-<br/>
 
 <details>
   <summary> 📊 Most Used Languages on Github </summary>
