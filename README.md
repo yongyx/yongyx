@@ -15,13 +15,11 @@ I am currently majoring in Machine Learning and Data Science. I have a particula
 [![website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yong.yx/#gh-dark-mode-only)
 [![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yongyx#gh-light-mode-only)
 [![website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yongyx#gh-dark-mode-only)
-![github-light](https://user-images.githubusercontent.com/56427665/163284601-69c468b7-1add-46cc-950b-9c9d1c71d39b.svg)
 
 ### :toolbox: Languages & Tools I Know
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/docs)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com/yongyx/#dark-mode-only)
-[![github-dark](https://user-images.githubusercontent.com/56427665/163284425-b3eebc66-39bf-44e7-bfd0-0b4fd0ac1d61.svg)](https://github.com/yongyx/#dark-mode-only) 
-[![github-light](https://user-images.githubusercontent.com/56427665/163284601-69c468b7-1add-46cc-950b-9c9d1c71d39b.svg)](https://github.com/yongyx/#light-mode-only)
+<!-- [![github-dark](https://user-images.githubusercontent.com/56427665/163284425-b3eebc66-39bf-44e7-bfd0-0b4fd0ac1d61.svg)(https://github.com/yongyx#dark-mode-only)]
+[![github-light](https://user-images.githubusercontent.com/56427665/163284601-69c468b7-1add-46cc-950b-9c9d1c71d39b.svg)(https://github.com/yongyx#light-mode-only)] -->
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal.svg">](https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
 [<img align="left" alt="Python" width="26px" src="./img/pythonlogo.svg">](https://docs.python.org/3/)
 [<img align="left" alt="Pytorch" width="26px" src="./img/pytorch.svg">](https://pytorch.org)
